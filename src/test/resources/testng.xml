@@ -9,7 +9,6 @@
 
     <test name="Katalon Test">
         <classes>
-            <class name="com.testingAcademy.KatalonTest"/>
         </classes>
     </test>
 
