@@ -7,11 +7,12 @@
         <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
     </listeners>
 
-    <test name="Explicit Wait Tests">
+    <test name="Automation Tests">
         <classes>
-            <class name="com.testingAcademy.ExplicitwaitTest"/>
+            <class name="com.testingAcademy.SvgProjectTest"/>
         </classes>
     </test>
+
 
 </suite>
 
