@@ -7,7 +7,7 @@
         <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
     </listeners>
 
-    <test name="Katalon Test">
+    <test name="Tests">
         <classes>
             <class name="com.testingAcademy.TTA_bankTest"/>
         </classes>
