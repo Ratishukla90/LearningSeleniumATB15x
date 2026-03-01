@@ -9,6 +9,7 @@
 
     <test name="Tests">
         <classes>
+            <class name="com.testingAcademy.KatalonTest"/>
             <class name="com.testingAcademy.TTA_bankTest"/>
         </classes>
     </test>
