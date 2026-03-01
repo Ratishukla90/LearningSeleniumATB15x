@@ -1,16 +1,15 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
-<suite name="Suite">
+<suite name="Automation Test Suite">
 
     <!-- Allure listener -->
     <listeners>
         <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
     </listeners>
 
-    <test name="Tests">
+    <test name="Explicit Wait Tests">
         <classes>
-            <class name="com.testingAcademy.KatalonTest"/>
-            <class name="com.testingAcademy.TTA_bankTest"/>
+            <class name="com.testingAcademy.ExplicitwaitTest"/>
         </classes>
     </test>
 
